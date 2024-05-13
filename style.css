@@ -1,0 +1,21 @@
+.h1{
+    color: rgb(35, 35, 35);
+}
+.p1{
+    color: red;
+}
+.h2{
+    color: blue;
+}
+.p2{
+    color: red;
+}
+.h3{
+    color: green;
+}
+.p3{
+    color: black;
+}
+body{
+    background-color: rgba(179, 179, 179, 1);
+}
